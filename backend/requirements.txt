@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+langchain
+langchain-openai
+langchain-anthropic
+pymupdf
+pdfplumber
+reportlab
+sqlalchemy
+python-dotenv
+clerk-backend-api
+pydantic
+pydantic-settings
